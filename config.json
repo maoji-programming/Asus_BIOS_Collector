@@ -1,0 +1,6 @@
+{
+    "chromedriver": ".\\chromedriver\\chromedriver.exe",
+    "model_list": ".\\model.txt",
+    "logs": ".\\logs",
+    "download_path": ".\\BIOS"
+}
